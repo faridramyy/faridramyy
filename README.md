@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center; justify-content:space-between">
-  <img height="200" src="./assets/g3.png" />
-  <h1 style="margin-right: 20px;">Hey 👋 What's up?</h1>
+<div>
+  <img src="./assets/banner.png" />
 </div>
+
+  <h1 style="margin-right: 20px;">Hey 👋 What's up?</h1>
 
 ###
 
