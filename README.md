@@ -1,5 +1,5 @@
 <div>
-  <img src="./assets/banner2.png" />
+  <img src="./assets/banner3.png" />
 </div>
 
   <h1 style="margin-right: 20px;">Hey 👋 What's up?</h1>
